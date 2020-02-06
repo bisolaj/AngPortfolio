@@ -1,0 +1,58 @@
+body {
+    background-color: gray;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+ }
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color : blue;
+}
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color : brown;
+}
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    color : black;
+}
+ul {
+    text-align: justify;
+}
+
+.black {
+    color : black;
+    font-size: 15pt;
+}
+img {
+    width:30%;
+    height: 30%;
+    float: left;
+    margin : auto;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+.center {
+    display : block;
+    margin : auto;
+    font-style: italic;
+    text-align: center;
+    font-size: 12pt;
+    color: white;
+}
+.justifytext {
+    text-align:justify;
+}
+a:link {
+    color : blue;
+}
+a:visited {
+    color:green;
+}
+a:hover {
+    color:rebeccapurple;
+}
+a:active {
+    color: teal;
+}
