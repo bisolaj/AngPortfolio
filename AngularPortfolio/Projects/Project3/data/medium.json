@@ -1,0 +1,408 @@
+{
+    "questions": [
+        {
+            "q": "What is the primary ingredient in Guacamole?",
+            "a1": "Bananna",
+            "a2": "Avocado",
+            "a3": "Mango",
+            "a4": "Pineapple",
+            "c" : "Avocado"
+       },
+        {
+            "q": "What is the name of the first Pizzeria to open in the US?",
+            "a1": "Lombardi's pizza",
+            "a2": "Luigi's pizzas",
+            "a3": "John's Of Bleeker",
+            "a4": "Sal and Carmine Pizza",
+            "c": "Lombardi's pizza"
+        },
+        {
+            "q": "Baloney is a form of what?",
+            "a1": "Vegetable",
+            "a2": "Soft Drink",
+            "a3": "Sausage",
+            "a4": "Steak",
+            "c": "Sausage"
+        },
+        {
+            "q": "Which of the following farming techniques often results in the increase of pests & diseases?",
+            "a1": "Monocropping",
+            "a2": "Intercropping",
+            "a3": "Relaycropping",
+            "a4": "Sequential cropping",
+            "c": "Monocropping"
+        },
+        {
+            "q": "The movie 'Rush Hour 2' poked humour at China for consuming which type of animal meat?",
+            "a1": "Chickens",
+            "a2": "Dogs",
+            "a3": "Cats",
+            "a4": "Monkeys",
+            "c": "Dogs"
+        },
+        {
+            "q": "What popular beverage once contain cocaine?",
+            "a1": "Dr Pepper",
+            "a2": "Coca Cola",
+            "a3": "Samuel Adams",
+            "a4": "Coffee",
+            "c": "Coca Cola"
+        },
+        {
+            "q": "Musician Prodigy of the rap group Mobb Depp passed away after choking on what food?",
+            "a1": "Chicken Burger",
+            "a2": "Boiled Egg",
+            "a3": "Oatmeal",
+            "a4": "Laffy Taffy",
+            "c": "Boiled Egg"
+        },
+        {
+            "q": "In December 2018, which African country was rocked by food riots?",
+            "a1": "Sudan",
+            "a2": "South Africa",
+            "a3": "Kenya",
+            "a4": "Ghana",
+            "c": "Sudan"
+        },
+        {
+            "q": "Who is considered to be the founder of the frozen-food industry?",
+            "a1": "Theodore Roosevelt",
+            "a2": "Clarence Birdseye",
+            "a3": "George Crum",
+            "a4": "Orville Redenbacher",
+            "c": "Clarence Birdseye"
+        },
+        {
+            "q": "Which country serves as the home of the largest farm in the world? ",
+            "a1": "China" ,
+            "a2": "Germany",
+            "a3": "United Kingdom",
+            "a4": "United States",
+            "c": "China"
+        },
+        {
+            "q": "Which American company produces Italian-influenced food products such as Beefaroni and Ravioli?",
+            "a1": "Heinz",
+            "a2": "Chef Boyardee",
+            "a3": "Del Monte",
+            "a4": "Campbell's",
+            "c": "Chef Boyardee"
+        },
+        {
+            "q": "In the movie 'the Last Dragon', Bruce Leroy's father owned which type of restaurant?",
+            "a1": "Chinese",
+            "a2": "Pizza",
+            "a3": "Chicken Joint ",
+            "a4": "Soul food",
+            "c": "Pizza"
+        },
+        {
+            "q": "Which is the top-selling cookie in the United States?",
+            "a1": "Famous Amos",
+            "a2": "Fig Newtons",
+            "a3": "Chips Ahoy",
+            "a4": "Oreos",
+            "c": "Oreos"
+        },
+        {
+            "q": "Which celebrity owns Deleon Tequila?",
+            "a1": "50 Cent",
+            "a2": "Usher",
+            "a3": "P. Diddy ",
+            "a4": "Pharrell Williams",
+            "c": "P. Diddy"
+        },
+        {
+            "q": "What do you call a vegetarian who only consumes chicken and fowl but no other meats?",
+            "a1": "Vegan",
+            "a2": "Flexitarian",
+            "a3": "Pescatarian ",
+            "a4": "Pollotarian",
+            "c": "Pollotarian"
+        },
+        {
+            "q": "Which cocktail was made famous by rapper Snoop Doggy Dogg in the 1990's?",
+            "a1": "Martini",
+            "a2": "Gin & Tonic",
+            "a3": "Gin & Juice",
+            "a4": "Bloody Mary",
+            "c": "Gin & Juice"
+        },
+        {
+            "q": "Sauerkraut is composed of which vegetable?",
+            "a1": "Spinach",
+            "a2": "Cabbage ",
+            "a3": "Cauliflower ",
+            "a4": "Lettuce",
+            "c": "Cabbage"
+        },
+        {
+            "q": "Which type of pastry is boiled before it is baked?",
+            "a1": "Pita",
+            "a2": "Donut",
+            "a3": "Croissant ",
+            "a4": "Bagel",
+            "c": "Bagel"
+        },
+        {
+            "q": "What is the name of the breakfast cereal produced by World Wrestling Entertainment (the WWE)?",
+            "a1": "Basic 4",
+            "a2": "Apple Jacks",
+            "a3": "Booty O's ",
+            "a4": "Wackies",
+            "c": "Booty O's"
+        },
+        {
+            "q": "Which country serves as the home of the largest farm in the world?",
+            "a1": "China" ,
+            "a2": "United States",
+            "a3": "Germany  ",
+            "a4": "United Kingdom",
+            "c": "China"
+        },
+        {
+            "q": "How many different flavors of jelly beans exist?",
+            "a1": "50",
+            "a2": "190",
+            "a3": "100 ",
+            "a4": "20",
+            "c": "50"
+        },
+        {
+            "q": "Mr. Pibb was a soft drink created by the Coca-Cola Company to compete with what other soft drink?",
+            "a1": "Mt. Dew",
+            "a2": "Sprite",
+            "a3": "Pepsi  ",
+            "a4": "Dr. Pepper",
+            "c": "Dr. Pepper"
+        },
+        {
+            "q": "During the post-credits' scene in the hit movie 'the Avengers', what dish are the superheroes enjoying together?",
+            "a1": "Pizza",
+            "a2": "Hulk-A Burning Fudge",
+            "a3": "Fish & Chips  ",
+            "a4": "Shawarma",
+            "c": "Shawarma"
+        },
+        {
+            "q": "American Joey Chestnut holds which world-class distinction in the food industry?",
+            "a1": "Master Chef",
+            "a2": "Eating Champion",
+            "a3": "Master Bartender ",
+            "a4": "Sushi Sensei",
+            "c": "Eating Champion"
+        },
+        {
+            "q": "Monterey Jack is a type of what?",
+            "a1": "Cheese",
+            "a2": "Liquor",
+            "a3": "Fish ",
+            "a4": "Toffee",
+            "c": "Cheese"
+        },
+        {
+            "q": "A food product made from rolled oats mixed with nuts and sweeteners is known as what?",
+            "a1": "Oatmeal",
+            "a2": "Granola",
+            "a3": "Energy Bar ",
+            "a4": "Trail Mix",
+            "c": "Granola"
+        },
+        {
+            "q": "Name the American who invented Condensed Milk?",
+            "a1": "Thomas Cook",
+            "a2": "John Reoid ",
+            "a3": "Gail Borden, Jr.",
+            "a4": "Mary Smith",
+            "c": "Gail Borden, Jr."
+        },
+        {
+            "q": "Canola is abbreviation for what?",
+            "a1": "Canadian Oil",
+            "a2": "Columbian Oil ",
+            "a3": "Palm Kernel Oil ",
+            "a4": "California Oil",
+            "c": "Canadian Oil"
+        },
+        {
+            "q": "Who invented Coca-Cola?",
+            "a1": "John Bruce",
+            "a2": "John Holloway ",
+            "a3": "John Smith ",
+            "a4": "John Pemberton",
+            "c": "John Pemberton"
+        },
+        {
+            "q": "Name the first food consumed on the moon in the Apollo 11 Moon Mission?",
+            "a1": "Bread",
+            "a2": "Turkey",
+            "a3": "Chicken ",
+            "a4": "Fries",
+            "c": "Turkey"
+        },
+        {
+            "q": "Who invented Iced Tea?",
+            "a1": "Richard Blechynden",
+            "a2": "Edward Swatson",
+            "a3": "Mark Milstead",
+            "a4": "John Bruce",
+            "c": "Richard Blechynden"
+        },
+        {
+            "q": "Which delicious and famous food item formerly known as a cure for diarrhea?",
+            "a1": "Bananna",
+            "a2": "Tomato Ketchup",
+            "a3": "Mayonaise",
+            "a4": "Beans",
+            "c": "Tomato Ketchup"
+        },
+        {
+            "q": "Sweet egg tarts originated from which country?",
+            "a1": "United Kingdom",
+            "a2": "Brazil",
+            "a3": "Portugal",
+            "a4": "Ireland",
+            "c": "Portugal"
+        },
+        {
+            "q": "Where is the oldest McDonalds' franchise in America?",
+            "a1": "Oakland, California",
+            "a2": "Sacramento, California",
+            "a3": "Downey, California ",
+            "a4": "San Jose, California",
+            "c": "Downey, California"
+        },
+        {
+            "q": "Ice Cream capital of the world?",
+            "a1": "Iowa",
+            "a2": "San Francisco",
+            "a3": "London ",
+            "a4": "Paris",
+            "c": "Iowa"
+        },
+        {
+            "q": "The official state pie of Florida is?",
+            "a1": "Cottage Pie",
+            "a2": "Mince Pie",
+            "a3": "Pumpkin Pie",
+            "a4": "Key lime pie",
+            "c": "Key lime pie"
+        },
+        {
+            "q": "Which American food item is rumored to survive a nuclear attack?",
+            "a1": "Fries",
+            "a2": "Twinkies",
+            "a3": "Cheeseburger",
+            "a4": "Turkey",
+            "c": "Twinkies"
+        },
+        {
+            "q": "In 1875, Daniel Peter invented which delicious drink?",
+            "a1": "Chocolate Milk",
+            "a2": "Soy Milk",
+            "a3": "Iced Tea ",
+            "a4": "Rice Milk",
+            "c": "Chocolate Milk"
+        },
+        {
+            "q": "Cassoulet is a dish belongs to which European country?",
+            "a1": "Germany",
+            "a2": "France",
+            "a3": "Belgium",
+            "a4": "Finland",
+            "c": "France"
+        },
+        {
+            "q": "Officia state fruit of Utah?",
+            "a1": "Oranges",
+            "a2": "Strawberries",
+            "a3": "Apples ",
+            "a4": "Cherries",
+            "c": "Cherries"
+        },
+        {
+            "q": "Which European country is credited for the invention of hot dogs?",
+            "a1": "Germany",
+            "a2": "France",
+            "a3": "Belgium ",
+            "a4": "Ireland",
+            "c": "Germany"
+        },
+        {
+            "q": "From which country, the superfood Acai berry comes from?",
+            "a1": "Spain",
+            "a2": "Belgium",
+            "a3": "Northern Brazil",
+            "a4": "United Kingdom",
+            "c": "Northern Brazil"
+        },
+        {
+            "q": "(You deserve a break today) is a slogan of which fast food chain?",
+            "a1": "McDonalds",
+            "a2": "Burger King",
+            "a3": "KFC",
+            "a4": "Jack in the box",
+            "c": "McDonalds"
+        },
+        {
+            "q": "Which European country Serrano ham is from?",
+            "a1": "United Kingdom",
+            "a2": "Italy",
+            "a3": "Spain",
+            "a4": "Greece",
+            "c": "Spain"
+        },
+        {
+            "q": "Pecan Pie is the state desert of which one?",
+            "a1": "Virginia",
+            "a2": "Oklahoma",
+            "a3": "Texas",
+            "a4": "Connecticut",
+            "c": "Oklahoma"
+        },
+
+        {
+            "q": "State food of South Carolina?",
+            "a1": "Boiled Peanuts",
+            "a2": "Rice",
+            "a3": "Potatoe",
+            "a4": "Corn",
+            "c": "Boiled Peanuts"
+        },
+
+        {
+            "q": "Baklava belongs to which country?",
+            "a1": "Brazil",
+            "a2": "Greece",
+            "a3": "Mexico",
+            "a4": "Belgium",
+            "c": "Greece"
+        },
+        {
+            "q": "State fruit of New York",
+            "a1": "Orange",
+            "a2": "Bananna",
+            "a3": "Apple",
+            "a4": "Grape",
+            "c": "Apple"
+        },
+
+        {
+            "q": "Official state dessert of Massachusetts?",
+            "a1": "Boston cream pie",
+            "a2": "Apple Pie ",
+            "a3": "Cherry Pie",
+            "a4": "Fruit Cake",
+            "c": "Boston cream pie"
+        },
+        {
+            "q": "According to The Independent, what is the most popular Pizza topping of UK?",
+            "a1": "Cheese",
+            "a2": "Mushrooms",
+            "a3": "Salami",
+            "a4": "Chicken",
+            "c": "Mushrooms"
+        }
+    ]
+}
+

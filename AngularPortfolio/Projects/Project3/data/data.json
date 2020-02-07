@@ -1,0 +1,404 @@
+{
+    "questions": [
+        {
+            "q": "What cooking techniques involves submerging food in a liquid at a relative low temperature?",
+            "a1": "Boiling",
+            "a2": "Braising",
+            "a3": "Poaching",
+            "a4": "Searing",
+            "c": "Poaching"
+        },
+        {
+            "q": "According to legend, vampires are exceptionally vulnerable to which vegetable?",
+            "a1": "Brocolli",
+            "a2": "Garlic",
+            "a3": "Spinach",
+            "a4": "Cabbage",
+            "c": "Garlic"
+        },        
+        {
+            "q": "Which liqour is made from Blue Agave plant?",
+            "a1": "Rum",
+            "a2": "Vodka",
+            "a3": "Tequila",
+            "a4": "Gin",
+            "c": "Tequila"
+        },
+        {
+            "q": "Fish fingers are also known as what in the United States?",
+            "a1": "Fish Sticks",
+            "a2": "Cod Cake",
+            "a3": "Fish Fillet",
+            "a4": "Fish Cake",
+            "c": "Fish Sticks"
+        },
+        {
+            "q": "Henry John Heins founded a company specialzing in the production of which product?",
+            "a1": "Green Peas",
+            "a2": "Ketchup",
+            "a3": "Chocolate",
+            "a4": "Potatoe chips",
+            "c": "Ketchup"
+        },
+        {
+            "q": "Which treat has become synonomous with the celebration of halloween?",
+            "a1": "Cadbury Creme Egg",
+            "a2": "Candy Canes",
+            "a3": "M&M's",
+            "a4": "Candy Corn",
+            "c": "Candy Corn"
+        },
+        {
+            "q": "The United States state of Georgia is famous for what fruit?",
+            "a1": "Peach",
+            "a2": "Apple",
+            "a3": "Grape",
+            "a4": "Cantaloupe",
+            "c": "Peach"
+        },
+        {
+            "q": "Colonel Sanders was the founder of which famous food chain?",
+            "a1": "Starbucks",
+            "a2": "KFC",
+            "a3": "Burger King",
+            "a4": "McDonald",
+            "c": "KFC"
+        },
+        {
+            "q": "What ingredient in bread causes it to rise?",
+            "a1": "Egg",
+            "a2": "Butter",
+            "a3": "Milk",
+            "a4": "Yeast",
+            "c": "Yeast"
+        },
+        {
+            "q": "What is the most popular spice in the world?",
+            "a1": "Salt",
+            "a2": "Pumpkin",
+            "a3": "Pepper",
+            "a4": "Italian seasoning",
+            "c": "Pepper"
+        },
+        {
+            "q": "American supermarket chain whole food market is owned by which mega company?",
+            "a1": "McDonald",
+            "a2": "McDonald",
+            "a3": "Starbucks",
+            "a4": "Amazon",
+            "c": "Amazon"
+        },
+        {
+            "q": "What food would the fictional sailor Popeye consume in order to instantly increase his strength?",
+            "a1": "Spinach",
+            "a2": "Cauliflower",
+            "a3": "Olive Oil",
+            "a4": "Sandine Oil",
+            "c": "Spinach"
+        },
+        {
+            "q": "What is the name of the food that was miraculously provided to the desert-dwelling Israelites of the Old Testament?",
+            "a1": "Milk",
+            "a2": "Wine",
+            "a3": "Honey",
+            "a4": "Manna",
+            "c": "Manna"
+        },
+        {
+            "q": "Which American political figure was key in getting legislation passed to improve the nutritional value of food served in schools?",
+            "a1": "Donald Trump",
+            "a2": "Michelle Obama",
+            "a3": "Hillary Clinton",
+            "a4": "George Bush",
+            "c": "Michelle Obama"
+        },
+        {
+            "q": "What is sushi traditionally wrapped in?",
+            "a1": "Seaweed",
+            "a2": "Spinach",
+            "a3": "Soy Paper",
+            "a4": "Maki",
+            "c": "Seaweed"
+        },
+        {
+            "q": "Who was the former celebrity spokesman for Jell-O pudding?",
+            "a1": "Emmanuel Lewis",
+            "a2": "Michael Jackson",
+            "a3": "Eddie Murphy",
+            "a4": "Bill Cosby",
+            "c": "Bill Cosby"
+        },
+        {
+            "q": "What is bubble gum made of?",
+            "a1": "Sugar ",
+            "a2": "Chicle",
+            "a3": "Flour",
+            "a4": "Yeast",
+            "c": "Chicle"
+        },
+        {
+            "q": "In what year was the blue M&M introduced?",
+            "a1": "1995",
+            "a2": "1985",
+            "a3": "1975",
+            "a4": "2000",
+            "c": "1995"
+        },
+        {
+            "q": "A snack made from marshmallows, graham crackers and chocolate is called what?",
+            "a1": "Oreo",
+            "a2": "Millionaire's Pie",
+            "a3": "Zebra Snack",
+            "a4": "S'more",
+            "c": "S'more"
+        },
+        {
+            "q": "What are dried plums called?",
+            "a1": "Raisin",
+            "a2": "Prunes",
+            "a3": "Dry Grapes",
+            "a4": "Seeds",
+            "c": "Prunes"
+        },
+        {
+            "q": "The global food phenomenon pizza originated from which country?",
+            "a1": "United Kingdom",
+            "a2": "France ",
+            "a3": "Italy",
+            "a4": "Greece",
+            "c": "Italy"
+        }, 
+        {
+            "q": "Immersing food in vinegar to prolong its lifespan is known as what?",
+            "a1": "Pickling",
+            "a2": "Fermentation ",
+            "a3": "Flash Freezing ",
+            "a4": "Vingeratization",
+            "c": "Pickling"
+        },
+        {
+            "q": "What does Kosher mean in Hebrew?",
+            "a1": "Clean",
+            "a2": "New",
+            "a3": "Great",
+            "a4": "Proper",
+            "c": "Proper"
+        },
+        {
+            "q": "What do we call the white solid hog fat used as a lubricant in cooking?",
+            "a1": "Lard",
+            "a2": "Butter",
+            "a3": "Olive",
+            "a4": "Canola",
+            "c": "Lard"
+        },
+        {
+            "q": "Gumbo is a stew that originated in which state?",
+            "a1": "Maryland",
+            "a2": "California",
+            "a3": "Texas",
+            "a4": "Louisiana",
+            "c": "Louisiana"
+        },
+        {
+            "q": "Tacos are an increasingly-popular fast food that originated in which country?",
+            "a1": "Venezuela",
+            "a2": "United States",
+            "a3": "Mexico ",
+            "a4": "Puerto Rico",
+            "c": "Mexico"
+        },
+       {
+            "q": "Which popular candy was featured prominently in the classic film 'E.T., the Extra-Terrestrial'?",
+            "a1": "Nerds",
+            "a2": "M&M's",
+            "a3": "Reece's Pieces",
+            "a4": "Skittles",
+            "c": "Reece's Pieces"
+        },
+        {
+            "q": "What nut is traditionally on the Waldorf salad?",
+            "a1": "Walnuts ",
+            "a2": "Peanuts",
+            "a3": "Almonds",
+            "a4": "Cashew Nuts",
+            "c": "Walnuts"
+        },
+        {
+            "q": "Which beverage is advertised as being 'Sports Fuel'?",
+            "a1": "Red Bull",
+            "a2": "Gatorade",
+            "a3": "Rush  ",
+            "a4": "Guarana",
+            "c": "Gatorade"
+        },
+        {
+            "q": "Red Vines is a popular brand of what type of candy?",
+            "a1": "Bubble gum",
+            "a2": "Gummy bears",
+            "a3": "Red licorice ",
+            "a4": "Caramel",
+            "c": "Red licorice"
+        },
+        {
+            "q": "'Twinkies' are produced by which famous company?",
+            "a1": "Hostess",
+            "a2": "McDonald's",
+            "a3": "Little Debbie",
+            "a4": "Wonder",
+            "c": "Hostess"
+        },
+        {
+            "q": "Guinness beer was first brewed in which country?",
+            "a1": "United States",
+            "a2": "Australia",
+            "a3": "Ireland",
+            "a4": "China",
+            "c": "Ireland"
+        },
+        {
+            "q": "What is eaten traditionally in the UK the day before Ash Wednesday?",
+            "a1": "Beans",
+            "a2": "Rice",
+            "a3": "Pancakes",
+            "a4": "Bread",
+            "c": "Pancakes"
+        },
+        {
+            "q": "A 'hot dog' is a colloquial term used for what food?",
+            "a1": "Hamburger Helper",
+            "a2": "Alpo",
+            "a3": "Frankfurter",
+            "a4": "Twinkie",
+            "c": "Frankfurter"
+        },
+        {
+            "q": "Donuts are traditionally sold in boxes containing how many pieces?",
+            "a1": "5",
+            "a2": "6",
+            "a3": "12",
+            "a4": "24",
+            "c": "12"
+        },
+        {
+            "q": "What is the main ingredient in hash browns?",
+            "a1": "Corned Beef",
+            "a2": "Hashish",
+            "a3": "Potatoes  ",
+            "a4": "Flour",
+            "c": "Potatoes"
+        },
+        {
+            "q": "What US state is famous for their juicy peaches?",
+            "a1": "Arizona",
+            "a2": "Florida",
+            "a3": "Georgia ",
+            "a4": "California",
+            "c": "Georgia"
+        },
+        {
+            "q": "The 'chips' that are commonly served with fish are made out of which vegetable?",
+            "a1": "Cassava",
+            "a2": "Plantain",
+            "a3": "Yams  ",
+            "a4": "Potatoes",
+            "c": "Potatoes"
+        },
+        {
+            "q": "Immersing food in vinegar to prolong its lifespan is known as what?",
+            "a1": "Vingeratization",
+            "a2": "Pickling",
+            "a3": "Fermentation ",
+            "a4": "Flash Freezing",
+            "c": "Pickling"
+        }, 
+        {
+            "q": "What is the national spirit of America",
+            "a1": "Gin",
+            "a2": "Rum",
+            "a3": "Bourbon",
+            "a4": "Vodka",
+            "c": "Bourbon"
+        },
+        {
+            "q": "Name the state which is the birthplace of Cheeseburger?",
+            "a1": "Maryland",
+            "a2": "Texas",
+            "a3": "Virginia",
+            "a4": "Colorado",
+            "c": "Colorado"
+        },
+        {
+            "q": "Which soft-drink was originates in North-Carolina?",
+            "a1": "Mountain Dew",
+            "a2": "7UP ",
+            "a3": "Coca-Cola ",
+            "a4": "Pepsi-Cola",
+            "c": "Pepsi Cola"
+        },
+        {
+            "q": "What is the state vegetable of Oklahoma?",
+            "a1": "Watermelon",
+            "a2": "Brocolli",
+            "a3": "Corn ",
+            "a4": "Carrot",
+            "c": "Watermelon"
+        },
+        {
+            "q": "Name the main ingredient of mince-pie?",
+            "a1": "Crust",
+            "a2": "Flour",
+            "a3": "Dried Fruit",
+            "a4": "Butter",
+            "c": "Dried Fruit"
+        },
+        {
+            "q": "Name the most iconic food item in Chicago city?",
+            "a1": "Rice",
+            "a2": "Deep-dish Pizza",
+            "a3": "Cheeseburger",
+            "a4": "Fries & Fish",
+            "c": "Deep-dish Pizza"
+        },
+        {
+            "q": "Which date do Americans celebrate Nation Sandwich Day?",
+            "a1": "November 3",
+            "a2": "January 3 ",
+            "a3": "August 3 ",
+            "a4": "October 3",
+            "c": "November 3"
+        },
+        {
+            "q": "Which food was rationed after WWII but not during the war?",
+            "a1": "Rice",
+            "a2": "Beans",
+            "a3": "Bread",
+            "a4": "Potatoe",
+            "c": "Bread"
+        },
+        {
+            "q": "Name an occasion on which Pumpkin pie is prepared in the United States and Canada?",
+            "a1": "New Year",
+            "a2": "Easter",
+            "a3": "Christmas",
+            "a4": "Thanksgiving",
+            "c": "Thanksgiving"
+        },
+        {
+            "q": "Who invented Pie pastry?",
+            "a1": "Ancient Greeks",
+            "a2": "British",
+            "a3": "Scottish",
+            "a4": "Indians",
+            "c": "Ancient Greeks"
+        },
+        {
+            "q": "Name the most ordered food in America?",
+            "a1": "Cheeseburger",
+            "a2": "Pasta",
+            "a3": "Fried Chicken",
+            "a4": "Fries",
+            "c": "Fried Chicken"
+        }
+    ]
+}

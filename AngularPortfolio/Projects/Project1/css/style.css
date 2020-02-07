@@ -1,0 +1,125 @@
+body {
+    padding: 0;
+    margin: 0;
+    background: #f2f6e9;
+  }
+  
+  /*--- navigation bar ---*/
+  
+  .navbar {
+    background-image: url('../images/bg.jpg');
+    
+      }
+  
+  .nav-link,
+  .navbar-brand {
+    
+    color:white;
+    cursor: pointer;
+  }
+
+  h3 {
+    text-align: center;
+    color:white;
+  }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
+  h4 {
+    text-align: center;
+    
+  }
+
+  h5 {
+    text-align: center;
+    color:white;
+  }
+  h6 {
+    
+    color:white;
+  }
+  .nav-link {
+    margin-right: 1em !important;
+  }
+  
+  .nav-link:hover {
+    color: #000;
+  }
+  
+  .navbar-collapse {
+    justify-content: flex-start;
+  }
+
+  .header {
+    background-image: url('../images/header.jpg');
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 50vh !important;
+    
+  }
+
+  .overlay {
+    position: absolute;
+    min-height: 100%;
+    min-width: 100%;
+    left: 0;
+    top: 0;
+
+  }
+
+  .description {
+    left: 50%;
+    position: absolute;
+    top: 40%;
+    bottom: 40%;
+    height: 25%;
+    transform: translate(-50%, -55%);
+    text-align: center;
+    background-color: #000324d0;
+  }
+  
+  .description h1 {
+    color: white;
+  }
+
+  .description h5 {
+    color: white;
+  }
+  
+  .description p {
+    color: #fff;
+    font-size: 1.3rem;
+    line-height: 1.5;
+  }
+
+    @media (max-width: 575.98px) {
+
+    .description {
+      left: 0;
+      padding: 0 15px;
+      position: absolute;
+      top: 10%;
+      transform: none;
+      text-align: center;
+    }
+    
+    .description h1 {
+      font-size: 2em;
+    }
+    
+    .description p {
+      font-size: 1.2rem;
+    }
+    
+     
+  }
+
+  .rooms{
+    background: url("../images/bg2.jpg");
+  }
+
+  

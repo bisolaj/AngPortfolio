@@ -1,0 +1,136 @@
+.bg-image{
+    background: url(../images/bgtexture.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.fugaz-one{
+    font-family: 'Fugaz One', cursive;
+}
+.white{
+    background-color: white;
+}
+.maroonTxt{
+    color: #5F002B;
+}
+
+.size12{
+    font-size: small;
+}
+.size20{
+    font-size: 20px;
+}
+.size30{
+    font-size: 30px;
+}
+.size50{
+    font-size: 50px;
+}
+
+.size20{
+    font-size: 20px;
+}
+.size50{
+    font-size: 50px;
+}
+.mx100{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.ml50{
+    margin-left: 50px;
+}
+.mb100{
+    margin-bottom: 100px;
+}
+.mb60{
+    margin-bottom: 60px;
+}
+.header-image{
+    background: url(../images/homeHero.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    height: 600px;
+}
+@font-face{
+    font-family: Montauk;
+    src: url(../fonts/Montauk-Regular.otf);
+    font-style: normal;
+}
+.montauk{
+    font-family:Montauk;
+}
+.arrange{
+    display: flex;
+    justify-content: space-between;
+}
+.whiteBorder{
+    border: solid white 5px;
+}
+.catering-hero{
+    height: 50vh;
+    width: 100%;
+}
+.catering-main{
+    height: 35vh;
+}
+
+
+h2 {
+    text-align: center;
+    background-color: white;
+}
+body {
+    background-image: url('../Images/bgtexture.jpg');
+    color: brown;
+}
+
+.mbackground {
+    background-color: white;
+}
+
+.card-body{
+    background-color: white;
+}
+
+.card {
+    background-color: #ffffff00;
+    border: none;
+}
+.footer-resize{
+    height: 2rem;
+}
+.menu{
+    background-color: white;
+   color: #5F002B;
+}
+.card{
+    background-color: #ffffff00;
+    border: none;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+.bg-white{
+background-color: white;    
+}
+.border-btm{
+    border-bottom: solid thin #5F002B;
+}
+p{
+    font-size: 15px;
+}
+@font-face{
+    font-family: Montauk;
+    src: url(../fonts/Montauk-Regular.otf);
+    font-style: normal;
+   }
+   .montauk{
+    font-family:Montauk;
+   }
+.zero{
+    padding: 0%;
+}

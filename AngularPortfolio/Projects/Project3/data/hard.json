@@ -1,0 +1,406 @@
+{
+    "questions": [
+        {
+            "q": "What are the four main ingredients in Beer?" ,
+            "a1": "Grain,Hops,Yeast,Water",
+            "a2": "Flour,Sugar,Water,Hops",
+            "a3": "Grain,Sugar,Salt,Yeast",
+            "a4": "Water,Sugar,Grain,Yeast",
+            "c": "Grain,Hops,Yeast,Water"
+        },
+        {
+            "q": "What is the official state fruit of New York?",
+            "a1": "Apple",
+            "a2": "Tomato",
+            "a3": "Watermelon",
+            "a4": "Strawberry",
+            "c" : "Apple"
+        },
+        {
+            "q": "What is the name of hottest pepper in the world?",
+            "a1": "Bhut Jolokia",
+            "a2": "Trinidad Scorpion",
+            "a3": "Carolina Reaper",
+            "a4": "Ghost Moccasin",
+            "c": "Carolina Reaper"
+        },
+        {
+            "q": "Tomatoes originated from which continent?",
+            "a1": "North America",
+            "a2": "Asia",
+            "a3": "Africa",
+            "a4": "South America",
+            "c": "South America"
+        },
+        {
+            "q": "Where was the first McDonald's restaurant located?",
+            "a1": "California",
+            "a2": "Alabama",
+            "a3": "New York",
+            "a4": "Lousiana",
+            "c": "California"
+        },
+        {
+            "q": "Which of the following fruits actually comes from an herb?",
+            "a1": "Strawberries",
+            "a2": "Apples",
+            "a3": "Banannas",
+            "a4": "Kiwi",
+            "c": "Banannas"
+        },
+        {
+            "q": "Which company received a major backlash for changing its traditional recipe in the mid-1980's?",
+            "a1": "Pepsi",
+            "a2": "Coca-Cola",
+            "a3": "Kentucky Fried Chicken",
+            "a4": "Burger King",
+            "c": "Coca-Cola"
+        },
+        {
+            "q": "Coconut water can be used as what in the case of medical emergencies?",
+            "a1": "Blood Plasma",
+            "a2": "Stool Loosener",
+            "a3": "Burn Reliever",
+            "a4": "Asthma Reliever",
+            "c": "Blood Plasma"
+        },
+        {
+            "q": "What is the main ingredient in hushpuppies?",
+            "a1": "Polenta",
+            "a2": "Cornmeal",
+            "a3": "Flour",
+            "a4": "Potatoes",
+            "c": "Cornmeal"
+        },
+        {
+            "q": "Which of the following dishes is a combination of eggs, lemon juice and broth?",
+            "a1": "Onsen Tamago",
+            "a2": "Avgolemono",
+            "a3": "Onsen Tamago",
+            "a4": "Egg Drop Soup",
+            "c": "Avgolemono"
+        },
+        {
+            "q": "What is the only edible food that is said to never spoils?",
+            "a1": "Rice",
+            "a2": "Salt",
+            "a3": "Honey",
+            "a4": "Soy Sauce",
+            "c": "Honey"
+        },
+        {
+            "q": "Visiting which fast-food joint has become a Christmas tradition in Japan?",
+            "a1": "McDonald",
+            "a2": "Burger King ",
+            "a3": "Pizza Hut",
+            "a4": "KFC",
+            "c": "KFC"
+        },
+        {
+            "q": "Kiwifruit are indigenous to which part of the world?",
+            "a1": "China",
+            "a2": "India",
+            "a3": "New Zealand",
+            "a4": "Peru",
+            "c": "China"
+        },
+        {
+            "q": "Flour cooked together with fat is known as what?",
+            "a1": "Chowder",
+            "a2": "Gravy",
+            "a3": "Roux ",
+            "a4": "Gumbo",
+            "c": "Roux"
+        },
+        {
+            "q": "Tzatziki sauce is a common topping on which dish?",
+            "a1": "Fried Chicken",
+            "a2": "Pork Ribs",
+            "a3": "Gyros",
+            "a4": "Falafel",
+            "c": "Gyros"
+        },
+        {
+            "q": "Around what year is the first mention of sausages in recorded history?",
+            "a1": "1000 BC",
+            "a2": "1000 AD ",
+            "a3": "3000 BC",
+            "a4": "1800 AD",
+            "c": "3000 BC"
+        },
+        {
+            "q": "Shito pepper is a commonly used condiment in which part of the world?",
+            "a1": "Central Africa",
+            "a2": "North Africa ",
+            "a3": "East Africa",
+            "a4": "West Africa",
+            "c": "West Africa"
+        },
+        {
+            "q": "Which of the following fruits is known to have meat-tenderizing properties?",
+            "a1": "Lemons",
+            "a2": "Grapefruit ",
+            "a3": "Pineapples",
+            "a4": "Strawberry",
+            "c": "Pineapples"
+        },
+        {
+            "q": "Who are the first people known to have consumed chocolate?",
+            "a1": "Olmecs",
+            "a2": "Hausa",
+            "a3": "Romans",
+            "a4": "Arawaks",
+            "c": "Olmecs"
+        },
+        {
+            "q": "L-cysteine, an amino acid used to preserve the shelf life of bread, is made up of what?",
+            "a1": "Human Hair",
+            "a2": "Pig Fur",
+            "a3": "Cow Droppings",
+            "a4": "Insect Wings",
+            "c": "Human Hair"
+        },
+        {
+            "q": "In 2014, a criminal gang in China used the chemical rongalite to flood the market with which contaminated food?",
+            "a1": "Tofu",
+            "a2": "Bean Curd ",
+            "a3": "Rice",
+            "a4": "Sushi",
+            "c": "Tofu"
+        },
+        {
+            "q": "61. The 'Buddha's hand' is a type of what?",
+            "a1": "Fruit ",
+            "a2": "Chicken Dish ",
+            "a3": "Fish Dish",
+            "a4": "Vegetable",
+            "c": "Fruit"
+        },
+        {
+            "q": "How many pounds of food does Hollywood superstar Dwayne 'the Rock' Johnson consume daily?",
+            "a1": "2",
+            "a2": "5",
+            "a3": "10",
+            "a4": "15",
+            "c": "10"
+        },
+        {
+            "q": "What happens if you put a rotten egg in water?",
+            "a1": "It'll crack.",
+            "a2": "It'll stop smelling",
+            "a3": "It'll sink. ",
+            "a4": "It'll float.",
+            "c": "It'll float."
+        },
+        {
+            "q": "What does the Slavic word 'vodka' translate to in English?",
+            "a1": "Little Water",
+            "a2": "Holy Water",
+            "a3": "Spirit Water ",
+            "a4": "Happy Hour",
+            "c": "Little Water"
+        },
+        {
+            "q": "David Jung is considered by many to be the originator of which famous food?",
+            "a1": "Fortune Cookies",
+            "a2": "Ramen Noodles",
+            "a3": "Spring Rolls  ",
+            "a4": "Fried Rice ",
+            "c": "Fortune Cookies"
+        },
+        {
+            "q": " Bacchus is the Ancient Roman god of which beverage?",
+            "a1": "Beer",
+            "a2": "Wine",
+            "a3": "Posca",
+            "a4": "Fruit Juice",
+            "c": "Wine"
+        },
+        {
+            "q": "In 1919, 21 people were killed in Boston due to a flood of what?",
+            "a1": "Molasses (correct)",
+            "a2": "Chocolate",
+            "a3": "Beer",
+            "a4": "Coca Cola",
+            "c": "Molasses"
+        },
+        {
+            "q": "Which country exports the most food?",
+            "a1": "China",
+            "a2": "India",
+            "a3": "United States",
+            "a4": "Brazil",
+            "c": "United States"
+        },
+        {
+            "q": "Maxwell House coffee is named after what?",
+            "a1": "A Hotel",
+            "a2": "A Brewery",
+            "a3": "A Mansion  ",
+            "a4": "A Cat",
+            "c": "A Hotel"
+        },
+        {
+            "q": "Why do food processors sometimes add carbon monoxide to meat?",
+            "a1": "To Reduce Odors",
+            "a2": "To Tenderize It",
+            "a3": "To Add Flavor  ",
+            "a4": "To Brighten the Color",
+            "c": "To Brighten the Color"
+        },
+        {
+            "q": "'Ital' is the word used to describe the cuisine of which group of people?",
+            "a1": "Italians",
+            "a2": "Rastafarians",
+            "a3": "Vegetarians ",
+            "a4": "Arabians",
+            "c": "Rastafarians"
+        },
+        {
+            "q": "Bammy is a traditional Jamaican bread made primarily of what?",
+            "a1": "Rye",
+            "a2": "Wholemeal Flour",
+            "a3": "Wheat  ",
+            "a4": "Cassava",
+            "c": "Cassava"
+        },
+        {
+            "q": "What popular alcoholic beverage is made from fermented rice?",
+            "a1": "Coquito",
+            "a2": "Sorrel",
+            "a3": "Sake",
+            "a4": "Atole",
+            "c": "Sake"
+        },
+        {
+            "q": "What does the Japanese term 'Sandai Wagyu' translate as?",
+            "a1": "Three Big Chickens",
+            "a2": "Three Big Beefs",
+            "a3": "Three Big Fish  ",
+            "a4": "Three Big Boozes",
+            "c": "Three Big Beefs"
+        },
+        {
+            "q": "The red food-coloring carmine is extracted from which source?",
+            "a1": "Insects",
+            "a2": "Flowers",
+            "a3": "Hair  ",
+            "a4": "Fish",
+            "c": "Insects"
+        },
+        {
+            "q": "What is the scientific name of the plant used to make liquorice?",
+            "a1": "Foeniculum Vulgare",
+            "a2": "Glycyrrhiza Glabra",
+            "a3": "Theobroma Cacao  ",
+            "a4": "Cannabis Sativa",
+            "c": "Glycyrrhiza Glabra"
+        },
+        {
+            "q": "In what year was the McDonald's Happy Meal created?",
+            "a1": "1967",
+            "a2": "1977",
+            "a3": "1987",
+            "a4": "1997",
+            "c": "1977"
+        },
+        {
+            "q": "Basundi is a dairy product that is popular in which part of the world?",
+            "a1": "Jamaica",
+            "a2": "Brazil",
+            "a3": "India",
+            "a4": "Burundi",
+            "c": "India"
+        },
+        {
+            "q": "Which is the largest food and drink company in the world?",
+            "a1": "Coca-Cola",
+            "a2": "Pepsi",
+            "a3": "McDonald's  ",
+            "a4": "Nestle",
+            "c": "Nestle"
+        },
+        {
+            "q": "What is the proper title for a person who makes pizzas in a pizzeria?",
+            "a1": "Guv'nor",
+            "a2": "Pizzazzy",
+            "a3": "Pizzaiolo",
+            "a4": "Chef de Cuisine",
+            "c": "Pizzaiolo"
+        },
+        {
+            "q": "During which year was cocaine finally removed as an ingredient in Coca Cola?",
+            "a1": "1885",
+            "a2": "1921",
+            "a3": "1929",
+            "a4": "1935",
+            "c": "1929"
+        },
+
+        {
+            "q": "The snack commonly referred to as 'potato chips' were originally called what?",
+            "a1": "Alabama-Fried Potatoes",
+            "a2": "French Fries",
+            "a3": "Saratoga Chips",
+            "a4": "Finger Chips",
+            "c": "Saratoga Chips"
+        },
+        {
+            "q": "In 1963, which state sold the first fried dill pickle?",
+            "a1": "Arkansas",
+            "a2": "California ",
+            "a3": "Texas",
+            "a4": "Maryland",
+            "c": "Arkansas"
+        },
+        {
+            "q": "What is the national dish of Germany?",
+            "a1": "Rice",
+            "a2": "Pot Roast",
+            "a3": "Mashed Potatoe",
+            "a4": "Fries & Fish",
+            "c": "Pot Roast"
+        },
+        {
+            "q": "In 1930, which food made its debut in Pennsylvania?",
+            "a1": "Philly Cheesesteak",
+            "a2": "Burger",
+            "a3": "Pumpkin Pie ",
+            "a4": "Bagel",
+            "c": "Philly Cheesesteak"
+        },
+        {
+            "q": "Name the only U.S. state which grows Coffee beans?",
+            "a1": "Hawaii",
+            "a2": "California ",
+            "a3": "Nevada",
+            "a4": "Maryland",
+            "c": "Hawaii"
+        },
+        {
+            "q": "Name the national drink of Scotland other than whiskey?",
+            "a1": "Irn-Bru",
+            "a2": "Vodka",
+            "a3": "Magarita",
+            "a4": "Gin",
+            "c": "Irn-Bru"
+        },
+        {
+            "q": "In 2009, which food item declared as the Nation Dessert of Delaware?",
+            "a1": "Fruit Cake",
+            "a2": "Mince Pie ",
+            "a3": "Pumpkin Pie ",
+            "a4": "Peach Pie",
+            "c": "Peach Pie"
+        },
+        {
+            "q": "Which condiment is traditionally served with fried seafood in the US?",
+            "a1": "Ketchup",
+            "a2": "Sweet & sour sauce",
+            "a3": "Black pepper",
+            "a4": "Tartar Sauce",
+            "c": "Tartar Sauce"
+        }
+    ]
+}
+

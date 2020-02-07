@@ -1,0 +1,7 @@
+﻿Puppy Restaurant Report by Bisola Awujoola
+
+
+Github Link: https://github.com/Tedward12/puppy-restuarant
+
+
+I am part of Group 1 for Project 2. Group members are Trever, Nimish, David and Bisola (myself).  Trever took care of the Home page and photos page, Nimish did the Menu page, David did the catering page and I did the about page.  We work individually on the pages and use GitHub to merge individual projects together for the project.  We all work together very well as a group, we encounter problems merging individual projects using Github but with time everything was perfect.
